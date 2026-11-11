@@ -1,0 +1,652 @@
+[
+  {
+    "id": "P01T01",
+    "phase": 1,
+    "topic": 1,
+    "title": "Java Platform and JVM Diagnostics",
+    "slug": "java-platform",
+    "package": "edu.practice.corejava.phase01.t01_java_platform",
+    "class": "P01T01Exercise",
+    "testClass": "P01T01Test"
+  },
+  {
+    "id": "P01T02",
+    "phase": 1,
+    "topic": 2,
+    "title": "Development Environment Readiness",
+    "slug": "development-environment",
+    "package": "edu.practice.corejava.phase01.t02_development_environment",
+    "class": "P01T02Exercise",
+    "testClass": "P01T02Test"
+  },
+  {
+    "id": "P01T03",
+    "phase": 1,
+    "topic": 3,
+    "title": "Program Structure and Naming",
+    "slug": "program-structure",
+    "package": "edu.practice.corejava.phase01.t03_program_structure",
+    "class": "P01T03Exercise",
+    "testClass": "P01T03Test"
+  },
+  {
+    "id": "P01T04",
+    "phase": 1,
+    "topic": 4,
+    "title": "Data Types and Numeric Conversion",
+    "slug": "types-and-casting",
+    "package": "edu.practice.corejava.phase01.t04_types_and_casting",
+    "class": "P01T04Exercise",
+    "testClass": "P01T04Test"
+  },
+  {
+    "id": "P01T05",
+    "phase": 1,
+    "topic": 5,
+    "title": "Operators and Permission Bits",
+    "slug": "operators",
+    "package": "edu.practice.corejava.phase01.t05_operators",
+    "class": "P01T05Exercise",
+    "testClass": "P01T05Test"
+  },
+  {
+    "id": "P01T06",
+    "phase": 1,
+    "topic": 6,
+    "title": "Conditional Logic for Entry Policies",
+    "slug": "control-flow",
+    "package": "edu.practice.corejava.phase01.t06_control_flow",
+    "class": "P01T06Exercise",
+    "testClass": "P01T06Test"
+  },
+  {
+    "id": "P01T07",
+    "phase": 1,
+    "topic": 7,
+    "title": "Looping and Operational Streaks",
+    "slug": "loops",
+    "package": "edu.practice.corejava.phase01.t07_loops",
+    "class": "P01T07Exercise",
+    "testClass": "P01T07Test"
+  },
+  {
+    "id": "P01T08",
+    "phase": 1,
+    "topic": 8,
+    "title": "Arrays and Seating Capacity",
+    "slug": "arrays",
+    "package": "edu.practice.corejava.phase01.t08_arrays",
+    "class": "P01T08Exercise",
+    "testClass": "P01T08Test"
+  },
+  {
+    "id": "P01T09",
+    "phase": 1,
+    "topic": 9,
+    "title": "Methods, Varargs and Recursion",
+    "slug": "methods",
+    "package": "edu.practice.corejava.phase01.t09_methods",
+    "class": "P01T09Exercise",
+    "testClass": "P01T09Test"
+  },
+  {
+    "id": "P02T10",
+    "phase": 2,
+    "topic": 10,
+    "title": "Classes, Objects and State",
+    "slug": "classes-and-objects",
+    "package": "edu.practice.corejava.phase02.t10_classes_and_objects",
+    "class": "P02T10Exercise",
+    "testClass": "P02T10Test"
+  },
+  {
+    "id": "P02T11",
+    "phase": 2,
+    "topic": 11,
+    "title": "Constructors and Initialization",
+    "slug": "constructors",
+    "package": "edu.practice.corejava.phase02.t11_constructors",
+    "class": "P02T11Exercise",
+    "testClass": "P02T11Test"
+  },
+  {
+    "id": "P02T12",
+    "phase": 2,
+    "topic": 12,
+    "title": "Encapsulation and Invariants",
+    "slug": "encapsulation",
+    "package": "edu.practice.corejava.phase02.t12_encapsulation",
+    "class": "P02T12Exercise",
+    "testClass": "P02T12Test"
+  },
+  {
+    "id": "P02T13",
+    "phase": 2,
+    "topic": 13,
+    "title": "Inheritance and Overriding",
+    "slug": "inheritance",
+    "package": "edu.practice.corejava.phase02.t13_inheritance",
+    "class": "P02T13Exercise",
+    "testClass": "P02T13Test"
+  },
+  {
+    "id": "P02T14",
+    "phase": 2,
+    "topic": 14,
+    "title": "Polymorphism and Dynamic Dispatch",
+    "slug": "polymorphism",
+    "package": "edu.practice.corejava.phase02.t14_polymorphism",
+    "class": "P02T14Exercise",
+    "testClass": "P02T14Test"
+  },
+  {
+    "id": "P02T15",
+    "phase": 2,
+    "topic": 15,
+    "title": "Abstraction and Interfaces",
+    "slug": "abstract-types",
+    "package": "edu.practice.corejava.phase02.t15_abstract_types",
+    "class": "P02T15Exercise",
+    "testClass": "P02T15Test"
+  },
+  {
+    "id": "P02T16",
+    "phase": 2,
+    "topic": 16,
+    "title": "Java Keywords in Business Models",
+    "slug": "keywords",
+    "package": "edu.practice.corejava.phase02.t16_keywords",
+    "class": "P02T16Exercise",
+    "testClass": "P02T16Test"
+  },
+  {
+    "id": "P02T17",
+    "phase": 2,
+    "topic": 17,
+    "title": "Object Equality, Hash Codes and Text",
+    "slug": "object-contract",
+    "package": "edu.practice.corejava.phase02.t17_object_contract",
+    "class": "P02T17Exercise",
+    "testClass": "P02T17Test"
+  },
+  {
+    "id": "P02T18",
+    "phase": 2,
+    "topic": 18,
+    "title": "Access Modifiers and API Boundaries",
+    "slug": "access-control",
+    "package": "edu.practice.corejava.phase02.t18_access_control",
+    "class": "P02T18Exercise",
+    "testClass": "P02T18Test"
+  },
+  {
+    "id": "P02T19",
+    "phase": 2,
+    "topic": 19,
+    "title": "Static Nested and Inner Classes",
+    "slug": "nested-classes",
+    "package": "edu.practice.corejava.phase02.t19_nested_classes",
+    "class": "P02T19Exercise",
+    "testClass": "P02T19Test"
+  },
+  {
+    "id": "P02T20",
+    "phase": 2,
+    "topic": 20,
+    "title": "Composition and Dependency Injection",
+    "slug": "composition-design",
+    "package": "edu.practice.corejava.phase02.t20_composition_design",
+    "class": "P02T20Exercise",
+    "testClass": "P02T20Test"
+  },
+  {
+    "id": "P03T21",
+    "phase": 3,
+    "topic": 21,
+    "title": "Strings, Immutability and Text Processing",
+    "slug": "strings",
+    "package": "edu.practice.corejava.phase03.t21_strings",
+    "class": "P03T21Exercise",
+    "testClass": "P03T21Test"
+  },
+  {
+    "id": "P03T22",
+    "phase": 3,
+    "topic": 22,
+    "title": "Wrapper Types and Nullability",
+    "slug": "wrappers",
+    "package": "edu.practice.corejava.phase03.t22_wrappers",
+    "class": "P03T22Exercise",
+    "testClass": "P03T22Test"
+  },
+  {
+    "id": "P03T23",
+    "phase": 3,
+    "topic": 23,
+    "title": "Exception Handling and Validation",
+    "slug": "exceptions",
+    "package": "edu.practice.corejava.phase03.t23_exceptions",
+    "class": "P03T23Exercise",
+    "testClass": "P03T23Test"
+  },
+  {
+    "id": "P03T24",
+    "phase": 3,
+    "topic": 24,
+    "title": "Custom Domain Exceptions",
+    "slug": "custom-exceptions",
+    "package": "edu.practice.corejava.phase03.t24_custom_exceptions",
+    "class": "P03T24Exercise",
+    "testClass": "P03T24Test"
+  },
+  {
+    "id": "P03T25",
+    "phase": 3,
+    "topic": 25,
+    "title": "Packages and Shared Constants",
+    "slug": "packages",
+    "package": "edu.practice.corejava.phase03.t25_packages",
+    "class": "P03T25Exercise",
+    "testClass": "P03T25Test"
+  },
+  {
+    "id": "P03T26",
+    "phase": 3,
+    "topic": 26,
+    "title": "Date and Time API: Business Dates",
+    "slug": "date-time",
+    "package": "edu.practice.corejava.phase03.t26_date_time",
+    "class": "P03T26Exercise",
+    "testClass": "P03T26Test"
+  },
+  {
+    "id": "P03T27",
+    "phase": 3,
+    "topic": 27,
+    "title": "Regular Expressions for Asset Tags",
+    "slug": "regex",
+    "package": "edu.practice.corejava.phase03.t27_regex",
+    "class": "P03T27Exercise",
+    "testClass": "P03T27Test"
+  },
+  {
+    "id": "P03T28",
+    "phase": 3,
+    "topic": 28,
+    "title": "Enums and Order State Machines",
+    "slug": "enums",
+    "package": "edu.practice.corejava.phase03.t28_enums",
+    "class": "P03T28Exercise",
+    "testClass": "P03T28Test"
+  },
+  {
+    "id": "P04T29",
+    "phase": 4,
+    "topic": 29,
+    "title": "Collection Hierarchy and Frequency Maps",
+    "slug": "collection-hierarchy",
+    "package": "edu.practice.corejava.phase04.t29_collection_hierarchy",
+    "class": "P04T29Exercise",
+    "testClass": "P04T29Test"
+  },
+  {
+    "id": "P04T30",
+    "phase": 4,
+    "topic": 30,
+    "title": "List Operations and Waitlists",
+    "slug": "lists",
+    "package": "edu.practice.corejava.phase04.t30_lists",
+    "class": "P04T30Exercise",
+    "testClass": "P04T30Test"
+  },
+  {
+    "id": "P04T31",
+    "phase": 4,
+    "topic": 31,
+    "title": "Set Semantics and Duplicate Detection",
+    "slug": "sets",
+    "package": "edu.practice.corejava.phase04.t31_sets",
+    "class": "P04T31Exercise",
+    "testClass": "P04T31Test"
+  },
+  {
+    "id": "P04T32",
+    "phase": 4,
+    "topic": 32,
+    "title": "Queue and Deque Processing",
+    "slug": "queues-and-deques",
+    "package": "edu.practice.corejava.phase04.t32_queues_and_deques",
+    "class": "P04T32Exercise",
+    "testClass": "P04T32Test"
+  },
+  {
+    "id": "P04T33",
+    "phase": 4,
+    "topic": 33,
+    "title": "Map Merging for Inventory",
+    "slug": "maps",
+    "package": "edu.practice.corejava.phase04.t33_maps",
+    "class": "P04T33Exercise",
+    "testClass": "P04T33Test"
+  },
+  {
+    "id": "P04T34",
+    "phase": 4,
+    "topic": 34,
+    "title": "Iterators and In-Place Maintenance",
+    "slug": "iteration",
+    "package": "edu.practice.corejava.phase04.t34_iteration",
+    "class": "P04T34Exercise",
+    "testClass": "P04T34Test"
+  },
+  {
+    "id": "P04T35",
+    "phase": 4,
+    "topic": 35,
+    "title": "Comparable and Comparator",
+    "slug": "sorting",
+    "package": "edu.practice.corejava.phase04.t35_sorting",
+    "class": "P04T35Exercise",
+    "testClass": "P04T35Test"
+  },
+  {
+    "id": "P04T36",
+    "phase": 4,
+    "topic": 36,
+    "title": "Generic APIs and Bounded Wildcards",
+    "slug": "generics",
+    "package": "edu.practice.corejava.phase04.t36_generics",
+    "class": "P04T36Exercise",
+    "testClass": "P04T36Test"
+  },
+  {
+    "id": "P04T37",
+    "phase": 4,
+    "topic": 37,
+    "title": "Hash Collision and Equality Contracts",
+    "slug": "hashmap-internals",
+    "package": "edu.practice.corejava.phase04.t37_hashmap_internals",
+    "class": "P04T37Exercise",
+    "testClass": "P04T37Test"
+  },
+  {
+    "id": "P04T38",
+    "phase": 4,
+    "topic": 38,
+    "title": "Choosing the Right Collection",
+    "slug": "collection-choice",
+    "package": "edu.practice.corejava.phase04.t38_collection_choice",
+    "class": "P04T38Exercise",
+    "testClass": "P04T38Test"
+  },
+  {
+    "id": "P05T39",
+    "phase": 5,
+    "topic": 39,
+    "title": "Functional Interfaces and Callbacks",
+    "slug": "functional-interfaces",
+    "package": "edu.practice.corejava.phase05.t39_functional_interfaces",
+    "class": "P05T39Exercise",
+    "testClass": "P05T39Test"
+  },
+  {
+    "id": "P05T40",
+    "phase": 5,
+    "topic": 40,
+    "title": "Lambda Expressions and Predicates",
+    "slug": "lambdas",
+    "package": "edu.practice.corejava.phase05.t40_lambdas",
+    "class": "P05T40Exercise",
+    "testClass": "P05T40Test"
+  },
+  {
+    "id": "P05T41",
+    "phase": 5,
+    "topic": 41,
+    "title": "Method References and Data Cleanup",
+    "slug": "method-references",
+    "package": "edu.practice.corejava.phase05.t41_method_references",
+    "class": "P05T41Exercise",
+    "testClass": "P05T41Test"
+  },
+  {
+    "id": "P05T42",
+    "phase": 5,
+    "topic": 42,
+    "title": "Stream Transformations",
+    "slug": "streams",
+    "package": "edu.practice.corejava.phase05.t42_streams",
+    "class": "P05T42Exercise",
+    "testClass": "P05T42Test"
+  },
+  {
+    "id": "P05T43",
+    "phase": 5,
+    "topic": 43,
+    "title": "Stream Terminal Operations and Reduction",
+    "slug": "terminal-operations",
+    "package": "edu.practice.corejava.phase05.t43_terminal_operations",
+    "class": "P05T43Exercise",
+    "testClass": "P05T43Test"
+  },
+  {
+    "id": "P05T44",
+    "phase": 5,
+    "topic": 44,
+    "title": "Collectors: Grouping and Partitioning",
+    "slug": "collectors",
+    "package": "edu.practice.corejava.phase05.t44_collectors",
+    "class": "P05T44Exercise",
+    "testClass": "P05T44Test"
+  },
+  {
+    "id": "P05T45",
+    "phase": 5,
+    "topic": 45,
+    "title": "Optional and Missing Customer Data",
+    "slug": "optional",
+    "package": "edu.practice.corejava.phase05.t45_optional",
+    "class": "P05T45Exercise",
+    "testClass": "P05T45Test"
+  },
+  {
+    "id": "P05T46",
+    "phase": 5,
+    "topic": 46,
+    "title": "Records, Sealed Types and Pattern Matching",
+    "slug": "modern-features",
+    "package": "edu.practice.corejava.phase05.t46_modern_features",
+    "class": "P05T46Exercise",
+    "testClass": "P05T46Test"
+  },
+  {
+    "id": "P06T47",
+    "phase": 6,
+    "topic": 47,
+    "title": "Threads and Runnable",
+    "slug": "thread-basics",
+    "package": "edu.practice.corejava.phase06.t47_thread_basics",
+    "class": "P06T47Exercise",
+    "testClass": "P06T47Test"
+  },
+  {
+    "id": "P06T48",
+    "phase": 6,
+    "topic": 48,
+    "title": "Joining and Thread Lifecycles",
+    "slug": "thread-operations",
+    "package": "edu.practice.corejava.phase06.t48_thread_operations",
+    "class": "P06T48Exercise",
+    "testClass": "P06T48Test"
+  },
+  {
+    "id": "P06T49",
+    "phase": 6,
+    "topic": 49,
+    "title": "Synchronization and Race Conditions",
+    "slug": "synchronization",
+    "package": "edu.practice.corejava.phase06.t49_synchronization",
+    "class": "P06T49Exercise",
+    "testClass": "P06T49Test"
+  },
+  {
+    "id": "P06T50",
+    "phase": 6,
+    "topic": 50,
+    "title": "Wait/Notify and Condition Signaling",
+    "slug": "wait-notify",
+    "package": "edu.practice.corejava.phase06.t50_wait_notify",
+    "class": "P06T50Exercise",
+    "testClass": "P06T50Test"
+  },
+  {
+    "id": "P06T51",
+    "phase": 6,
+    "topic": 51,
+    "title": "ExecutorService and Callable",
+    "slug": "executors",
+    "package": "edu.practice.corejava.phase06.t51_executors",
+    "class": "P06T51Exercise",
+    "testClass": "P06T51Test"
+  },
+  {
+    "id": "P06T52",
+    "phase": 6,
+    "topic": 52,
+    "title": "Concurrent Collections and Atomic Updates",
+    "slug": "concurrent-collections",
+    "package": "edu.practice.corejava.phase06.t52_concurrent_collections",
+    "class": "P06T52Exercise",
+    "testClass": "P06T52Test"
+  },
+  {
+    "id": "P06T53",
+    "phase": 6,
+    "topic": 53,
+    "title": "CompletableFuture Composition",
+    "slug": "completable-future",
+    "package": "edu.practice.corejava.phase06.t53_completable_future",
+    "class": "P06T53Exercise",
+    "testClass": "P06T53Test"
+  },
+  {
+    "id": "P06T54",
+    "phase": 6,
+    "topic": 54,
+    "title": "Virtual Threads",
+    "slug": "virtual-threads",
+    "package": "edu.practice.corejava.phase06.t54_virtual_threads",
+    "class": "P06T54Exercise",
+    "testClass": "P06T54Test"
+  },
+  {
+    "id": "P07T55",
+    "phase": 7,
+    "topic": 55,
+    "title": "Input/Output Streams",
+    "slug": "java-io",
+    "package": "edu.practice.corejava.phase07.t55_java_io",
+    "class": "P07T55Exercise",
+    "testClass": "P07T55Test"
+  },
+  {
+    "id": "P07T56",
+    "phase": 7,
+    "topic": 56,
+    "title": "NIO.2 Paths and Files",
+    "slug": "nio",
+    "package": "edu.practice.corejava.phase07.t56_nio",
+    "class": "P07T56Exercise",
+    "testClass": "P07T56Test"
+  },
+  {
+    "id": "P07T57",
+    "phase": 7,
+    "topic": 57,
+    "title": "Serialization of Trusted Session Snapshots",
+    "slug": "serialization",
+    "package": "edu.practice.corejava.phase07.t57_serialization",
+    "class": "P07T57Exercise",
+    "testClass": "P07T57Test"
+  },
+  {
+    "id": "P07T58",
+    "phase": 7,
+    "topic": 58,
+    "title": "JVM Class Loading and Diagnostics",
+    "slug": "jvm-architecture",
+    "package": "edu.practice.corejava.phase07.t58_jvm_architecture",
+    "class": "P07T58Exercise",
+    "testClass": "P07T58Test"
+  },
+  {
+    "id": "P07T59",
+    "phase": 7,
+    "topic": 59,
+    "title": "Object References and Memory Retention",
+    "slug": "memory-management",
+    "package": "edu.practice.corejava.phase07.t59_memory_management",
+    "class": "P07T59Exercise",
+    "testClass": "P07T59Test"
+  },
+  {
+    "id": "P07T60",
+    "phase": 7,
+    "topic": 60,
+    "title": "Reflection-Based Configuration Discovery",
+    "slug": "reflection",
+    "package": "edu.practice.corejava.phase07.t60_reflection",
+    "class": "P07T60Exercise",
+    "testClass": "P07T60Test"
+  },
+  {
+    "id": "P07T61",
+    "phase": 7,
+    "topic": 61,
+    "title": "Runtime Annotations for Audit Metadata",
+    "slug": "annotations",
+    "package": "edu.practice.corejava.phase07.t61_annotations",
+    "class": "P07T61Exercise",
+    "testClass": "P07T61Test"
+  },
+  {
+    "id": "P07T62",
+    "phase": 7,
+    "topic": 62,
+    "title": "JDBC and Atomic Bank Transfers",
+    "slug": "jdbc",
+    "package": "edu.practice.corejava.phase07.t62_jdbc",
+    "class": "P07T62Exercise",
+    "testClass": "P07T62Test"
+  },
+  {
+    "id": "P07T63",
+    "phase": 7,
+    "topic": 63,
+    "title": "Java Platform Module System",
+    "slug": "java-modules",
+    "package": "edu.practice.corejava.phase07.t63_java_modules",
+    "class": "P07T63Exercise",
+    "testClass": "P07T63Test"
+  },
+  {
+    "id": "P07T64",
+    "phase": 7,
+    "topic": 64,
+    "title": "Unit Testing, Regression and Debugging",
+    "slug": "junit-and-debugging",
+    "package": "edu.practice.corejava.phase07.t64_junit_and_debugging",
+    "class": "P07T64Exercise",
+    "testClass": "P07T64Test"
+  },
+  {
+    "id": "P07T65",
+    "phase": 7,
+    "topic": 65,
+    "title": "Maven Metadata and Dependency Management",
+    "slug": "maven-build-tools",
+    "package": "edu.practice.corejava.phase07.t65_maven_build_tools",
+    "class": "P07T65Exercise",
+    "testClass": "P07T65Test"
+  }
+]
