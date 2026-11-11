@@ -1,4 +1,4 @@
-# Core Java — Everyday Scenario Labs
+# Core Java — Scenario Based Practice Exercises
 
 **7 phases · 65 topics · 65 approachable everyday exercises · independent JUnit validation.**
 
